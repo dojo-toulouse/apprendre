@@ -30,6 +30,10 @@ Programmation
 * [Mozilla Developper Network](https://developer.mozilla.org) Autour du web
 * [Google University](https://developers.google.com/university/courses/) Android, web and Go.
 
+Git
+-------------------------------
+* [Pro Git](https://github.s3.amazonaws.com/media/progit.en.pdf) Livre au format PDF accessiblement gratuitement.
+* [Git Immersion](http://gitimmersion.com) Tutorial guidé pour apprendre Git.
 
 Concours en ligne
 -------------------------------
