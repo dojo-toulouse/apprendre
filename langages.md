@@ -14,4 +14,5 @@ Programmation
 * [Html5 Rocks](http://www.html5rocks.com) Comme son nom l'indique.
 * [Mozilla Developper Network](https://developer.mozilla.org) Autour du web
 * [Google University](https://developers.google.com/university/courses/) Android, web and Go.
-
+* [Python books](http://pythonbooks.revolunet.com/) Liste de livres sur Python.
+* [Python koans](https://github.com/gregmalcolm/python_koans) Portage de Ruby koans pour Python : Tutoriel à base de tests pour apprendre en faisant.
