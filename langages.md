@@ -16,4 +16,5 @@ Programmation
 * [Google University](https://developers.google.com/university/courses/) Android, web and Go.
 * [4Clojure](http://www.4clojure.com/problems) des problèmes à résoudre en clojure.
 * [Learn You a haskell for great good!](http://learnyouahaskell.com/chapters) un livre sur haskell disponible gratuitement en ligne.
-
+* [Python books](http://pythonbooks.revolunet.com/) Liste de livres sur Python.
+* [Python koans](https://github.com/gregmalcolm/python_koans) Portage de Ruby koans pour Python : Tutoriel à base de tests pour apprendre en faisant.
