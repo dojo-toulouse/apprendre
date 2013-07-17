@@ -14,4 +14,6 @@ Programmation
 * [Html5 Rocks](http://www.html5rocks.com) Comme son nom l'indique.
 * [Mozilla Developper Network](https://developer.mozilla.org) Autour du web
 * [Google University](https://developers.google.com/university/courses/) Android, web and Go.
+* [4Clojure](http://www.4clojure.com/problems) des problèmes à résoudre en clojure.
+* [Learn You a haskell for great good!](http://learnyouahaskell.com/chapters) un livre sur haskell disponible gratuitement en ligne.
 
