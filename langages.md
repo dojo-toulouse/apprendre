@@ -18,3 +18,4 @@ Programmation
 * [Learn You a haskell for great good!](http://learnyouahaskell.com/chapters) un livre sur haskell disponible gratuitement en ligne.
 * [Python books](http://pythonbooks.revolunet.com/) Liste de livres sur Python.
 * [Python koans](https://github.com/gregmalcolm/python_koans) Portage de Ruby koans pour Python : Tutoriel à base de tests pour apprendre en faisant.
+* [Rexex Crosswords](http://regexcrossword.com/) Apprendre les regex en faisant des mots croisés de force croissante.
