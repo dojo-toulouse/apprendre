@@ -19,3 +19,11 @@ Programmation
 * [Python books](http://pythonbooks.revolunet.com/) Liste de livres sur Python.
 * [Python koans](https://github.com/gregmalcolm/python_koans) Portage de Ruby koans pour Python : Tutoriel à base de tests pour apprendre en faisant.
 * [Regex Crosswords](http://regexcrossword.com/) Apprendre les regex en faisant des mots croisés de force croissante.
+
+Paradigmes
+-------------------------------
+
+### Concurrent Programming ###
+* [Parallel and Concurrent Programming in Haskell](http://chimera.labs.oreilly.com/books/1230000000929/index.html) ebook gratuit en ligne
+* [Central clearing house for Concurency in Python](http://wiki.python.org/moin/Concurrency/)
+
