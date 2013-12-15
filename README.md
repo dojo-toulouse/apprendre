@@ -8,7 +8,7 @@ Une collection de ressources autour de l'apprentissage des domaines liés au dé
 * [Conférences en vidéos et podcasts](audio-video.md)
 * [Concours en ligne](concours.md)
 * [Cours en ligne](sites-generiques.md)
-
+* [Livres](livres.md)
 
 contribuer
 ----------
